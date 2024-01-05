@@ -69,3 +69,9 @@ ul li:hover {
     background-color: #FFECC7;
     cursor: pointer;
 }
+
+.toggle {
+    text-decoration: line-through;
+}
+
+    
